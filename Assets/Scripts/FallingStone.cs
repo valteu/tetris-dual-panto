@@ -11,20 +11,23 @@ public class FallingStone : MonoBehaviour
         upperHandle = GameObject.Find("Panto").GetComponent<UpperHandle>();
     }
 
+    void createCollider()
+    {
+        /*FindObjectsOfType<PantoCollider>();
+        foreach (PantoCollider collider in pantoColliders)
+        {
+            collider.CreateObstacle();
+            collider.Enable();
+            GetComponent<PantoCollider>
+        }*/
+    }
+    void updateCollider()
+    {
+
+    }
+
     async void FixedUpdate()
     {
-        var distance = transform.position.x - upperHandle.HandlePosition(transform.position).x;
-
-        if (Mathf.Abs(distance) > 0.5)
-        {
-            if (distance < 0 && transform.position.x < 2)
-            {
-                transform.position += new Vector3(1, 0, 0);
-            }
-            else if (distance > 0 && transform.position.x > -2)
-            {
-                transform.position -= new Vector3(1, 0, 0);
-            }
-        }
+        
     }
 }
