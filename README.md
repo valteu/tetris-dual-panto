@@ -9,8 +9,8 @@ Therfore the DualPanto gives haptical feedback to the user so that with the uppe
 This is a fork of the private repository of the project group.
 
 <p float="left">
-  <img src="https://github.com/valteu/tetris-dual-panto/blob/master/dual-panto.png" width="600" />
-  <img src="https://github.com/valteu/tetris-dual-panto/blob/master/poster.jpg" width="272" /> 
+  <img src="https://github.com/valteu/tetris-dual-panto/blob/master/dual-panto.png" width="400" />
+  <img src="https://github.com/valteu/tetris-dual-panto/blob/master/poster.jpg" width="181" /> 
 </p>
 
 On the first image you can see a DualPanto, which is a haptical device offering motorized feedback on two handles. Since the product is designed to be used for bilnd people, this project does not offer a well designed visual UI, but a haptical one. The second image expresses the game idea and interaction with the handles. 
