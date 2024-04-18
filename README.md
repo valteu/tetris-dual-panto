@@ -1,12 +1,9 @@
-projects repo for 
-# Building Interactive Systems 2023 
-
-## Project Tetris on DualPanto
+# Project Tetris on DualPanto
 
 This project implements a Tetris game for blind people on the DualPanto. 
 Therfore the DualPanto gives haptical feedback to the user so that with the upper handle the falling block can be moved left and right and with the lower handle the shapes of the blocks on the ground can be recognized.
 
-This is a fork of the private repository of the project group.
+This is a fork of the private repository of the Building Interactive Systems project.
 
 <p float="left">
   <img src="https://github.com/valteu/tetris-dual-panto/blob/master/dual-panto.png" width="400" />
