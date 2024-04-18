@@ -1,7 +1,7 @@
-# Project Tetris on DualPanto
+# Tetris on DualPanto
 
 This project implements a Tetris game for blind people on the DualPanto. 
-Therfore the DualPanto gives haptical feedback to the user so that with the upper handle the falling block can be moved left and right and with the lower handle the shapes of the blocks on the ground can be recognized.
+Therefore, the DualPanto gives haptic feedback to the user so that with the upper handle the falling block can be moved left and right and with the lower handle the shapes of the blocks on the ground can be recognized.
 
 This is a fork of the private repository of the Building Interactive Systems project.
 
@@ -10,7 +10,7 @@ This is a fork of the private repository of the Building Interactive Systems pro
   <img src="https://github.com/valteu/tetris-dual-panto/blob/master/poster.jpg" width="181" /> 
 </p>
 
-On the first image you can see a DualPanto, which is a haptical device offering motorized feedback on two handles. Since the product is designed to be used for bilnd people, this project does not offer a well designed visual UI, but a haptical one. The second image expresses the game idea and interaction with the handles. 
+On the first image, you can see a DualPanto, which is a haptic device offering motorized feedback on two handles. Since the product is designed to be used for blind people, this project does not offer a well-designed visual UI, but a haptic one. The second image expresses the game idea and interaction with the handles. 
 
 # Installation
 
